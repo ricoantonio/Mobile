@@ -1,0 +1,8 @@
+expo init (namaProject)
+
+react-native run-android
+react-native init 'namaProject'
+
+npm i native-base
+npm i react-navigation react-navigation-tabs react-navigation-stack
+npm i react-native-gesture-handler react-native-reanimated
